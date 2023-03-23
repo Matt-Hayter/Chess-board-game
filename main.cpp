@@ -1,12 +1,3 @@
-/*
-OOP in C++ Project: Chess
-Two users can play a full game of chess, with an optional move assistant if requested.
-All inputs are fully validated and users are precisely informed of case specific faults.
-Code demonstrates polymorphism, inheritance and exhibits several advanced C++ features.
-
-Matt Hayter, last updated 04/06/2021
-*/
-
 #include "board_pieces.h" // Include contents of self constructed header files
 #include "general_functions.h"
 #include "board.h"
